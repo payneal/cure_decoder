@@ -28,3 +28,11 @@
   ### Solna
     * see: https://solana.com/hyperdrive/resources 
     * https://docs.solana.com/getstarted/hello-world
+  
+  ### AWS
+   * https://www.youtube.com/watch?v=7CsUtj4xVY0
+   * https://www.youtube.com/watch?v=5fOY469Db8A
+   * https://www.youtube.com/watch?v=Tl95ZNSDfhQ
+   * https://www.youtube.com/watch?v=Rn28n2rN1To
+   * https://www.youtube.com/watch?v=vqEotNXnas0
+      
