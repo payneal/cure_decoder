@@ -1,12 +1,25 @@
 # Cure Decoder 
-  * Health care app built to Save peoples lives by implementing blockchain to track the entire supply chain of medications, from manufacturer to consumer.
+  * Health care app built to Save peoples lives by implementing blockchain to track the entire supply chain of medications, from manufacturer to consumer using Solana.
 
-## How to build
-  * to be done
-    
 ## Video Demo 
-  * video link
+  * [![Cure Decoder- Demo](./demo.png)](https://github.com/payneal/cure_decoder/blob/main/videos/export_1697395528376.mov)
 
+## link to pitch deck
+    * https://github.com/payneal/cure_decoder/blob/main/pitch_decki/Cure Decoder Pitch Deck Presentation.pdf
+
+## Folder Structure
+    * videos 
+        * additional videos of the prodict including demo
+    * mobile_app
+        * react-native moble app connected with google vision api
+    * solana_service
+        * python api server to make solona api calls
+    * walgreen-python-api
+        * python api used for pharmaceutical info
+
+## Team
+    * Fadi Ibrahim - https://www.linkedin.com/in/fadiibrahim/
+    * Ali Payne - https://www.linkedin.com/in/ali-payne/
 
 ## Resources 
    ### React Native ex. mobile app:
