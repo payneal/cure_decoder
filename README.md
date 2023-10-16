@@ -24,9 +24,42 @@
 * Resources
     * ideas/research 
 
-## Unique use cases In which if this app was implemented in Paracuticals Industry we believe we could of prevented:
+## Why use Solona
+* Store the info using Solana API, so patients can grab the data and read the data straightaway.
+* Use Solana to decentralise the information.
+* Use Solana because it’s really fast for transactions and also have a proof of history
+* Transactions of medicine using smart contracts
+* transaction of medicines to be easier through smart contracts for providers and patients
+* Proof of history = valuable for provider e.g. metadata
+* Supply Chain Traceability:
+    * Implement blockchain to track the entire supply chain of medications, from manufacturer to consumer.
+         * This can help users verify the authenticity and origin of their medication, reducing the risk of counterfeit drugs.
+* Multi-Language Support:
+    * Use blockchain to enable multilingual support. Smart contracts can automatically translate medication information into the user's preferred language, making it accessible to a wider global audience.
+* Decentralized Verification: Any centralized system that can go down.
+
+* Allow users and healthcare professionals to validate the accuracy of medication information and warnings.
+    * Blockchain can facilitate a decentralized network of validators to cross-verify data.
+
+* Smart Contracts: 
+    * Implement smart contracts to send automatic alerts to users when there are recalls, safety warnings, or updates related to their medications.
+
+* Interoperability: 
+     * Use blockchain to ensure interoperability with other healthcare systems and electronic health records (EHRs), making it easier for healthcare professionals to access accurate medication information.
+
+* Audit Trails for Regulatory Compliance:
+      * Maintain detailed audit trails on the blockchain to demonstrate compliance with healthcare regulations, providing transparency to regulators and partners.
+
+
+## Use cases In which if this app was implemented as industy standard we believe  events would be avoided:
 * Prescription incident' leads to termination of woman's in vitro fertilization
 * [![Prescription Incedent 1](./pi1.png)](https://youtu.be/tVI3Kj_8PxE?si=advUSpfGKKxYQCcm)
+* why 
 
-* Also ability to idetify high risk individuals for street level druges based on pharmacuticals precriped/dosage/and cut off date
-* [![Prescription Incedent 1](./pi2.png)](https://youtu.be/5KoHCf3VC9I?si=_XraIY3h0KOpL6U8)
+* UT linebacker's tragic fentanyl overdose story told by mom
+* [![Prescription Incedent 2](./pi2.png)](https://youtu.be/5KoHCf3VC9I?si=_XraIY3h0KOpL6U8)
+* why
+
+
+
+
