@@ -5,7 +5,7 @@
   * [![Cure Decoder- Demo](./demo.png)](https://github.com/payneal/cure_decoder/blob/main/videos/export_1697395528376.mov)
 
 ## link to pitch deck
-    * https://github.com/payneal/cure_decoder/blob/main/pitch_decki/Cure Decoder Pitch Deck Presentation.pdf
+<a href="username.github.io/folder/document.pdf](https://github.com/payneal/cure_decoder/blob/main/pitch_decki/Cure Decoder Pitch Deck Presentation.pdf" target="_blank">PDF.</a>
 
 ## Folder Structure
     * videos 
@@ -20,7 +20,17 @@
 ## Team
     * Fadi Ibrahim - https://www.linkedin.com/in/fadiibrahim/
     * Ali Payne - https://www.linkedin.com/in/ali-payne/
+    * Advisor - Cessiah Lopez - https://uk.linkedin.com/in/cessiahlopez 
 
+
+## Unique use cases In which if this app was implemented in Paracuticals Industry we believe we could of prevented:
+    * Prescription incident' leads to termination of woman's in vitro fertilizatio
+     https://youtu.be/tVI3Kj_8PxE?si=advUSpfGKKxYQCcm
+     
+     * Also ability to idetify high risk individuals for street level druges based on pharmacuticals precriped/dosage/and cut off date
+     https://youtu.be/5KoHCf3VC9I?si=_XraIY3h0KOpL6U8
+     
+    
 ## Resources 
    ### React Native ex. mobile app:
        * https://www.youtube.com/watch?v=1OsFhYoluJc
