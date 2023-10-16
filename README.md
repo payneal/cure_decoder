@@ -10,7 +10,7 @@
 * Advisor - Cessiah Lopez - https://uk.linkedin.com/in/cessiahlopez 
 
 ## link to pitch deck
-<a href="username.github.io/folder/document.pdf](https://github.com/payneal/cure_decoder/blob/main/pitch_decki/Cure Decoder Pitch Deck Presentation.pdf" target="_blank">PDF.</a>
+<a href="username.github.io/folder/document.pdf](https://github.com/payneal/cure_decoder/blob/main/pitch_deck/Cure Decoder Pitch Deck Presentation.pdf" target="_blank">PDF.</a>
 
 ## Folder Structure
 * videos 
