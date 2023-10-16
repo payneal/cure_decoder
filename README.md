@@ -2,7 +2,7 @@
   * Health care app built to Save peoples lives by implementing blockchain to track the entire supply chain of medications, from manufacturer to consumer using Solana.
 
 ## Video Demo 
-  * [![Cure Decoder- Demo](./demo.png)](https://github.com/payneal/cure_decoder/blob/main/videos/export_1697395528376.mov)
+  * [![Cure Decoder- Demo](./demo.png)](https://youtu.be/N7PQhN_vgRc)
 
 ## link to pitch deck
 <a href="username.github.io/folder/document.pdf](https://github.com/payneal/cure_decoder/blob/main/pitch_decki/Cure Decoder Pitch Deck Presentation.pdf" target="_blank">PDF.</a>
